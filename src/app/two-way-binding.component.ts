@@ -39,7 +39,7 @@ export class TwoWayBindingComponent {
     this.reset();
   }
 
-  private reset(): void {
+  reset(): void {
     this.person = {
       name: {
         forename: 'John',
