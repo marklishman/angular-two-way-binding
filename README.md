@@ -1,4 +1,4 @@
-# angular-2-two-way-binding
+# angular-two-way-binding
 
 Combine the square brackets of property binding and the parentheses of event binding 
 to create two-way binding with `ngModel`.
